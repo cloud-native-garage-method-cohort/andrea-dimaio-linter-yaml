@@ -7,8 +7,7 @@ spec:
   pipelineRef: 
     name: pipeline-assignment
   workspaces: 
-    - 
-      name: pipeline-assignment-data
+    - name: pipeline-assignment-data
       volumeClaimTemplate: 
         spec: 
           accessModes: 
