@@ -1,0 +1,1 @@
+# andrea-dimaio-linter-yaml
